@@ -28,7 +28,7 @@ if(cin.fail())
 cout<<"\n\tYou have entered wrong input"<<"\n";
 }
 }
-for(i=0;i<n;i--)
+for(i=0;i<n;i++)
 {
  if(a[i]%3==0)   //To check if number is divisible by 3 or not
  {
